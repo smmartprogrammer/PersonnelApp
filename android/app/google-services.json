@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "658308739521",
+    "project_id": "personnelapp-8b75c",
+    "storage_bucket": "personnelapp-8b75c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658308739521:android:683f4dd50e2cafda6f7f40",
+        "android_client_info": {
+          "package_name": "com.personnelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658308739521-777tfn10ct2cem20s6cejlg889mc9cq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYNCaF4oiT5qTN-5NTbf9Bfqa438YLNYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658308739521-777tfn10ct2cem20s6cejlg889mc9cq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
